@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-image: url('https://i.pinimg.com/236x/ca/b4/86/cab486965688ec24ef5b5c55284d438d.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: black;
+    text-align: center;
+
+}
+header h1{
+color: aliceblue;
+}
+header nav ul{
+    padding: 20px;
+}
+header nav ul li{
+    color: bisque;
+    display: inline;
+    padding: 20px;
+}
+header nav ul li a{
+    color: sandybrown;
+    text-decoration: none;    
+   
+ }
+ main img{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-end-start-radius: 50%;
+    border-start-end-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+ }
+ #Home h2{
+text-align: center;
+ }
+ #Home img{
+    height:200px;
+    width:200px;
+}
+#skills ul li{
+    display: inline;
+    padding: 20px;
+}
+ <!--to remove underline-->
+ <!--bg attachment->to fix bg image only scrolling contents-->
